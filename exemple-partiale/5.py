@@ -1,0 +1,1 @@
+# inlocuieste spatiile cu '\n'
